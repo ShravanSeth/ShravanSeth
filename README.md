@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShravanSeth
-- 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning enhancements in Web and App Development
+- 👀 I’m interested in...Full Stack Development
+- 🌱 I’m currently learning enhancements in App Development
 - 💞️ I’m looking to collaborate on Open source Projects and Custom Projects
 - 📫 You all can reach me at +91 98311 00765
 
