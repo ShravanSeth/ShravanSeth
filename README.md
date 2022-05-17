@@ -8,7 +8,7 @@
 - 👨🏽‍💻 I’m currently an IT Undergrad(3rd year) student at Institute of Engineering and Management
 - 👋 Hi, I’m @ShravanSeth
 - 👀 I’m interested in Full Stack Web and App Development.
-- 🌱 I’m currently learning to upskill my enhancements in AI
+- 🌱 I’m currently learning to upskill my enhancements in Blockchain Development
 - 💞️ I’m looking to collaborate with other developers on open source and innovative projects
 - 📫 Email me at shravanseth59@gmail.com
  
